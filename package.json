@@ -5,6 +5,7 @@
   "description": "Shared components to create nicely styled demos for Learn With Jason.",
   "scripts": {
     "dev": "eleventy --serve",
+    "prebuild": "npm i --prefix plugin",
     "build": "eleventy"
   },
   "repository": {
