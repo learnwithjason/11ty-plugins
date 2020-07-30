@@ -1,10 +1,8 @@
 module.exports = {
   // keep it short! shown in the header
-  title: 'Demo of the Demo',
+  title: 'Build Custom 11ty Plugins',
 
   // these are all optional and add links to the footer
-  repo: 'learnwithjason/demo-base',
-  episode:
-    'https://www.learnwithjason.dev/creating-css-variable-font-text-effects',
-  tutorial: 'https://codepen.io/jlengstorf/pen/QWbdLjb',
+  repo: 'learnwithjason/11ty-plugins',
+  episode: 'https://www.learnwithjason.dev/create-a-plugin-for-11ty',
 };
